@@ -1,0 +1,24 @@
+{
+  "name": "jara-react",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "isotope-layout": "^3.0.6",
+    "jarallax": "^2.1.4",
+    "next": "13.5.2",
+    "react": "18.2.0",
+    "react-countup": "^6.4.2",
+    "react-dom": "18.2.0",
+    "react-fast-marquee": "^1.6.1",
+    "react-player": "^2.13.0",
+    "react-visibility-sensor": "^5.1.1",
+    "waypoints": "^4.0.1",
+    "wowjs": "^1.1.3"
+  }
+}
